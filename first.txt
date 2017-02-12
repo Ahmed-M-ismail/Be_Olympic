@@ -8,5 +8,9 @@ mano hero
 </html>
 angular
 js 
+<<<<<<< HEAD
 ÔÛÔ ÉÎÔÔÆ
+>>>>>>> origin/master
+=======
+habrakadbra
 >>>>>>> origin/master
